@@ -15,4 +15,4 @@ $ docker run -d \
     pshevtsov/shiny-server
 ```
 
-Open the output IP address on port 3838 in your browser, e.g. http://172.17.0.100:3838
+Open the server on port 3838 in your browser, e.g. http://127.0.0.1:3838
